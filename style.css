@@ -46,7 +46,18 @@
 .display .value{
     font-size: 10.5vh;
     margin-right: 1vh;
+
+
+
+}
+@media (min-width: 50vh) {
+    .display .value{
     position: absolute;
+    top: 1.3vh;
+
+
+        
+    }
 }
 
 main {
